@@ -1,0 +1,18 @@
+
+html {
+    background-color: aquamarine;
+    padding: 40px;
+}
+
+
+
+body {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    background-color: gainsboro;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 10px ;
+}
+
